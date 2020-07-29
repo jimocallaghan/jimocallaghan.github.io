@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6CF223BJ9A.ie.aibtest.iOS-AppAuth-Basic",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
